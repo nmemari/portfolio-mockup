@@ -1,0 +1,36 @@
+.main {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark-gray);
+    width: 100%;
+    height: 500px;
+}
+
+.textBox {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--oxford-blue);
+    color: var(--platinum);
+    width: 700px;
+    height: 400px;
+}
+
+.textBox h1 {
+    font-family: 'Righteous';
+    font-weight: 100;
+    margin: 40px;
+}
+
+.textBox p {
+    margin-left: 40px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+    line-height: 1.5;
+    font-family: 'Arimo', sans-serif;
+}
+
+.image {
+    background-color: var(--rich-black);
+}

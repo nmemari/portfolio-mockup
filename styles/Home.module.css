@@ -1,0 +1,10 @@
+.featured {
+    font-family: 'Righteous';
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark-gray);
+    color: var(--platinum);
+    padding-top: 100px;
+}

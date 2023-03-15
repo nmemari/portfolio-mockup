@@ -1,0 +1,9 @@
+.main {
+    background-color: var(--rich-black);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--silver-lake-blue);
+    font-family: 'Arimo', sans-serif;
+}
